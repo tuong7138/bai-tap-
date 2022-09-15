@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form action="google.com">
+        <h1>DANG KY HOC VIEN</h1> <br>
+        <p>Ho va ten</p> <input type="text" name="ten">
+        <br>
+        <p>Ngay sinh</p>
+        <input type="text" name="born" id="">
+        <p>Gioi tinh</p>
+        <input type="radio" name="gender" id="">Nam 
+        <input type="radio" name="gender" id="">Nu
+        <br>
+        <p>Dia chi</p> <input type="text" name="diachi" id="" height="20" width="50" size="40 50">
+        <br>
+        <p>Lop</p>
+        <select name="chonlop" id="">
+            <option value="chon-lop">lop1</option>
+            <option value="chon-lop">lop2</option>
+            <option value="chon-lop">lop3</option>
+        </select> <br>
+        <p>Email</p> <input type="email" name="email">
+        <br>
+        <p>Dien thoai</p>
+        <input type="number" name="phone"> <br>
+        <button type="submit">Dang ky</button>
+        <button type="reset">Nhap lai</button>
+    </form>
+</body>
+</html>
