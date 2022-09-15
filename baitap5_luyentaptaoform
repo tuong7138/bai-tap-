@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form action="youtube.html">
+    <h2>Ho va Ten</h2>
+    <input type="text" name="name" id="">
+    <br>
+    <h2>Email</h2>
+    <input type="email" name="email" id="">
+    <br>
+    <h2>So dien thoai</h2>
+    <br>
+    <input type="number" name="phone">
+    <br>
+    <h2>Gioi tinh</h2> <br>
+    <input type="radio" name="gender" id="">Nam <input type="radio" name="gender" id="  ">Nu <br>
+    <button type="submit">Dang ky</button>
+    </form>
+
+</body>
+</html>
